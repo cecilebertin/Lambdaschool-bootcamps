@@ -3,12 +3,12 @@
 ## Instructions
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
-		
-	* Variables
-	* Strings
-	* Functions (arguments, `return`)
-	* `if` statements
-	* Boolean values (`true`, `false`)
+
+	* Variables: names we give to containers that store data
+	* Strings: a concatenation of characters
+	* Functions (arguments, `return`): blocks of code, statements, that perform a task, giving certain arguments (parameters) and returns a result
+	* `if` statements: conditional statements, perform tasks based on the conditions
+	* Boolean values (`true`, `false`): represents either the true value or the false value
 
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
